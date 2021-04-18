@@ -1,0 +1,10 @@
+html,
+body {
+  height: 900px;
+  width: 1200px;
+  box-sizing: border-box;
+}
+canvas {
+  display: block;
+  padding:10px;  
+}
